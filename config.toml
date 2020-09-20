@@ -20,8 +20,8 @@ paginate     = 10
   enableSharingButtons = true
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
-  keywords = "homepage, blog"
+  description = "While this body contains breath, I will continue."
+  keywords = "engineering, software development, mental health, suicide prevention"
   images = [""]
 
   # Default theme "light" or "dark"
@@ -38,7 +38,7 @@ paginate     = 10
   [languages.en]
     title = "The Continue Project"
     subtitle = "While this body contains breath, I will continue."
-    keywords = ""
+    keywords = "engineering, software development, mental health, suicide prevention"
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
