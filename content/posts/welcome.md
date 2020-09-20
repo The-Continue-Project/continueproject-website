@@ -17,6 +17,6 @@ It is to be a source of help, of hope, of inspiration to those in need of it.
 
 We aim to provide resources for and support of initiatives focused on suicide prevention and mental health awareness.
 
-We are engineers. We are software developers. We are people of the modern age.
+We are engineers. We are software developers. We are the technicians of the world.
 
 We are humans, and we continue.

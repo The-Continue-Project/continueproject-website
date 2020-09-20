@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on The Continue Project</title>
-        <link>localhost/posts/</link>
+        <link>https://continueproject.com/posts/</link>
         <description>Recent content in Posts on The Continue Project</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Sun, 20 Sep 2020 11:55:40 -0500</lastBuildDate>
-        <atom:link href="localhost/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://continueproject.com/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Welcome</title>
-            <link>localhost/posts/welcome/</link>
+            <link>https://continueproject.com/posts/welcome/</link>
             <pubDate>Sun, 20 Sep 2020 11:55:40 -0500</pubDate>
             
-            <guid>localhost/posts/welcome/</guid>
+            <guid>https://continueproject.com/posts/welcome/</guid>
             <description>Life is no simple thing. This project is a recognition of that fact.
 It is a recognition that we all - well or ill, successful or still striving - need a hand now and then.
 It is to be a source of help, of hope, of inspiration to those in need of it.
@@ -24,7 +24,7 @@ We aim to provide resources for and support of initiatives focused on suicide pr
 <p>It is a recognition that we all - well or ill, successful or still striving - need a hand now and then.</p>
 <p>It is to be a source of help, of hope, of inspiration to those in need of it.</p>
 <p>We aim to provide resources for and support of initiatives focused on suicide prevention and mental health awareness.</p>
-<p>We are engineers. We are software developers. We are people of the modern age.</p>
+<p>We are engineers. We are software developers. We are the technicians of the world.</p>
 <p>We are humans, and we continue.</p>
 ]]></content>
         </item>

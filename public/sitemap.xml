@@ -3,36 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>localhost/tags/general-info/</loc>
+    <loc>https://continueproject.com/tags/general-info/</loc>
     <lastmod>2020-09-20T11:55:40-05:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost/posts/</loc>
+    <loc>https://continueproject.com/posts/</loc>
     <lastmod>2020-09-20T11:55:40-05:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost/tags/</loc>
+    <loc>https://continueproject.com/tags/</loc>
     <lastmod>2020-09-20T11:55:40-05:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost/</loc>
+    <loc>https://continueproject.com/</loc>
     <lastmod>2020-09-20T11:55:40-05:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost/posts/welcome/</loc>
+    <loc>https://continueproject.com/posts/welcome/</loc>
     <lastmod>2020-09-20T11:55:40-05:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost/blog/</loc>
+    <loc>https://continueproject.com/about/</loc>
+    <lastmod>2020-09-20T11:55:20-05:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost/series/</loc>
+    <loc>https://continueproject.com/blog/</loc>
+  </url>
+  
+  <url>
+    <loc>https://continueproject.com/series/</loc>
   </url>
   
 </urlset>
