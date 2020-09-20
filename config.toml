@@ -3,6 +3,7 @@ title        = "The Continue Project"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
+googleAnalytics = "UA-4880035-39"
 
 [params]
   dateform        = "Jan 2, 2006"
