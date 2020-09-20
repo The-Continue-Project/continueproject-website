@@ -1,7 +1,7 @@
 ---
 title: "Welcome"
 date: 2020-09-20T11:55:40-05:00
-draft: true
+draft: false
 toc: false
 images:
 tags:
