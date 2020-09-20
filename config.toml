@@ -1,15 +1,18 @@
-baseurl      = "https://continueproject.com"
-title        = "The Continue Project"
-languageCode = "en-us"
-theme        = "hello-friend-ng"
-paginate     = 10
+baseurl         = "https://continueproject.com"
+title           = "The Continue Project"
+languageCode    = "en-us"
+theme           = "hello-friend-ng"
+paginate        = 10
 googleAnalytics = "UA-4880035-39"
+enableGitInfo   = true
+
 
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
+  gitUrl          = "https://github.com/FitzyCodesThings/continueproject/commit/"
 
   # Subtitle for home
   homeSubtitle = "While this body contains breath, I will continue."
