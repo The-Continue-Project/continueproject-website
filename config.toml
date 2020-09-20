@@ -1,4 +1,4 @@
-baseurl      = "https://thecontinueproject.netlify.app/"
+baseurl      = "https://continueproject.com"
 title        = "The Continue Project"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
