@@ -33,6 +33,9 @@ enableGitInfo   = true
 
   footerRight = "Theme Made With &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
 
+[permalinks]
+  posts = "/:year/:month/:title/"
+
 [taxonomies]
     category = "blog"
     tag      = "tags"
