@@ -20,7 +20,7 @@ We aim to support a few groups of people:
  
 ### We're just getting started.
 
-To see the current plans for the project, [start here]().
+To see the current plans for the project, [start here](/posts/initial-thoughts/).
 
 And let us know your thoughts and ideas! 
 
