@@ -12,7 +12,7 @@ enableGitInfo   = true
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
-  gitUrl          = "https://github.com/FitzyCodesThings/continueproject/commit/"
+  gitUrl          = "https://github.com/The-Continue-Project/continueproject/commit/"
 
   # Subtitle for home
   homeSubtitle = "While this body contains breath, I will continue."
