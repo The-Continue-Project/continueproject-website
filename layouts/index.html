@@ -1,0 +1,37 @@
+{{ define "main" }}
+    <main aria-role="main">
+        <div>
+            {{ if .Site.Params.Portrait.Path }}
+               <img src="{{ .Site.Params.Portrait.Path }}" class="circle" alt="{{ .Site.Params.Portrait.Alt }}" style="max-width:{{ .Site.Params.Portrait.MaxWidth }}" />
+            {{ end }}
+
+            <h1>{{ .Site.Title }}</h1>
+            {{- with .Site.Params.homeSubtitle }}
+                <p>{{.}}</p>
+            {{- end }}
+
+            <div class="post">
+                <div class="post-content">
+                    <p>
+                        We are a community of developers, engineers, and technologists who <code>recognize the importance of mental health</code> 
+                        in our lives and <code>seek to improve it together</code> as a community of colleagues and friends.
+                    </p>
+
+                    <p align="center">
+                        <a class="button brand-pink" href="https://www.opencounseling.com/suicide-hotlines" target="_blank">I need immediate help</a>                        
+                    </p>
+                </div>
+            </div>
+           
+
+            {{- with .Site.Params.social }}
+                <div>
+                    {{ partial "social-icons.html" . }}
+                </div>
+            {{- end }}
+            
+
+            
+        </div>
+    </main>
+{{ end }}
