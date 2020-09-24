@@ -6,6 +6,8 @@ paginate        = 10
 googleAnalytics = "UA-4880035-39"
 enableGitInfo   = true
 
+[params.Portrait]
+  Path = "/ContinueProject-Icon-ColorFG-TransparentBG-CloseCrop-200px.png"
 
 [params]
   dateform        = "Jan 2, 2006"
