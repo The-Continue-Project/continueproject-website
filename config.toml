@@ -9,6 +9,15 @@ enableGitInfo   = true
 [params.Portrait]
   Path = "/ContinueProject-Icon-ColorFG-TransparentBG-CloseCrop-200px.png"
 
+# Social icons
+[[params.social]]
+  name = "twitter"
+  url  = "https://twitter.com/continueproj"
+
+[[params.social]]
+  name = "github"
+  url  = "https://github.com/orgs/The-Continue-Project"
+
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
