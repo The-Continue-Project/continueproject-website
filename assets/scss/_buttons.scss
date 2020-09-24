@@ -30,6 +30,8 @@ a.button {
 
   /* variants */
 
+  &.button-wide {max-width: 60%;}
+
   &.outline {
     background: transparent;
     border-color: $light-background-secondary;
