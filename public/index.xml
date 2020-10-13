@@ -39,7 +39,17 @@ We aim to provide resources for and support of initiatives focused on suicide pr
       
       <guid>https://continueproject.com/about/</guid>
       <description>Task Live() { while (this.Body.Contains(&amp;#34;Breath&amp;#34;)) continue; } This project was started with the goal of promoting mental health and suicide prevention in the engineering and software development industries. We aim to support a few groups of people:
- Developers and engineers who feel isolated and need support Developers and engineers who want to better support their loved ones in need Loved ones of developers and engineers who don&amp;rsquo;t know how to help  </description>
+ Developers and engineers who feel isolated and need support Developers and engineers who want to better support their loved ones in need Loved ones of developers and engineers who don&amp;rsquo;t know how to help  We&amp;rsquo;re just getting started.</description>
+    </item>
+    
+    <item>
+      <title>Code of Conduct</title>
+      <link>https://continueproject.com/code-of-conduct/</link>
+      <pubDate>Sun, 20 Sep 2020 11:55:20 -0500</pubDate>
+      
+      <guid>https://continueproject.com/code-of-conduct/</guid>
+      <description>Continue Project Community Code of Conduct Welcome! The Continue Project is an open community of developers, engineers, and technologists who recognize the importance of mental health in our lives and support each other with resources and space for discussion as colleagues and friends.
+We want this to be a fun, pleasant, and harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion.</description>
     </item>
     
   </channel>

@@ -79,6 +79,10 @@ enableGitInfo   = true
       name       = "Blog"
       url        = "/posts"
     [[menu.main]]
+      identifier = "code"
+      name       = "Code of Conduct"
+      url        = "/code-of-conduct"
+    [[menu.main]]
       identifier = "about"
       name       = "About"
       url        = "/about"
