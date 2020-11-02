@@ -11,8 +11,16 @@ enableGitInfo   = true
 
 # Social icons
 [[params.social]]
+  name = "discord"
+  url  = "https://discord.gg/KMQUHZQpjd"
+
+[[params.social]]
   name = "twitter"
   url  = "https://twitter.com/continueproj"
+
+[[params.social]]
+  name = "facebook"
+  url  = "https://www.facebook.com/thecontinueproject/"
 
 [[params.social]]
   name = "dev"
@@ -21,6 +29,8 @@ enableGitInfo   = true
 [[params.social]]
   name = "github"
   url  = "https://github.com/orgs/The-Continue-Project"
+
+
 
 [params]
   dateform        = "Jan 2, 2006"
