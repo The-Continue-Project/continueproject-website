@@ -1,7 +1,7 @@
 ---
 title: "Announcing The Continue Project (and a BIG Giveaway to Celebrate)"
 date: 2020-11-03T09:51:29-06:00
-draft: true
+draft: false
 toc: false
 images:
 tags:
